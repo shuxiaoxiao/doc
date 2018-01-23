@@ -1,0 +1,8 @@
+
+配置文件尽量都放在web工程中
+	resource.properties 用@value 注解来取值
+
+
+分页查询、条件查询（ByCondition）分开因为查询条件会不同，展示的字段也会有差异
+
+Set 去重注意 引用对象需要重写 equals 和 hashCode（默认是比对 对象地址）
