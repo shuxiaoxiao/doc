@@ -1,4 +1,0 @@
-
-http://springfox.github.io/springfox/	springfox¹ÙÍø
-
-https://github.com/springfox/springfox-demos.git	¼¯³ÉswaggerÀı×Ó
